@@ -1,0 +1,3 @@
+// To push your files to github via token
+
+git push https://<github_token_id>@github.com/<username>/<repo_name>.git
